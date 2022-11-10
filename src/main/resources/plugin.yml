@@ -1,0 +1,4 @@
+name: Urusia
+version: '${version}'
+main: urusia.urusia.Urusia
+api-version: 1.19
