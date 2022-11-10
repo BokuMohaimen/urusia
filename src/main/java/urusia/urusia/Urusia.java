@@ -19,16 +19,12 @@ public final class Urusia extends JavaPlugin {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-
         if (command.getName().equalsIgnoreCase("urusai")) {
-
             for (int i = 0; i <= 2147483647; i++) {
                 sender.sendMessage("うるｒしあ「");
             }
             return true;
-
         }
-
         return false;
     }
 }
